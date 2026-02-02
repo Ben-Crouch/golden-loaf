@@ -17,4 +17,5 @@ Golden Loaf is a responsive bakery website built with Next.js and TypeScript, de
 https://golden-loaf.vercel.app
 
 ## Screenshots
-(Add 2–3 screenshots here)
+![Homepage](screenshots/golden-loaf-home.png)
+![Menu Page](screenshots/golden-loaf-about.png)
